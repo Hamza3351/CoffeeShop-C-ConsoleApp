@@ -1,0 +1,7 @@
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\PAF-KIET University\7th Semester Maal\Labs\Software Construction & Development\Lab10\CoffeeShop\obj\Debug\CoffeeShop.pdb
